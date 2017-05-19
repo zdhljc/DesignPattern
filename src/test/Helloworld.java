@@ -1,12 +1,3 @@
-/*
- *  Copyright (c) 2017 Nokia. All rights reserved.
- *
- *  Revision History:
- *
- *  DATE/AUTHOR          COMMENT
- *  ---------------------------------------------------------------------
- *  2017年5月19日/juncli                            
- */
 package test;
 
 /**
