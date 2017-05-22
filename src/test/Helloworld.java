@@ -1,10 +1,5 @@
 package test;
 
-/**
- * TODO:Write class description
- * @author <a HREF="mailto:junchao.li@nokia.com">Paul</a>
- *
- */
 public class Helloworld
 {
 
